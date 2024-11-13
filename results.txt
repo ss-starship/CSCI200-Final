@@ -1,0 +1,36 @@
+Game 1 ~---~---~---~---~---~---~---~---~---~---~---~ 
+Guess # 1  :  Red - 230, Green - 120, and Blue - 120.
+Guess # 2  :  Red - 240, Green - 190, and Blue -  70.
+Guess # 3  :  Red - 240, Green - 150, and Blue -  70.
+Guess # 4  :  Red - 240, Green - 140, and Blue -  70.
+
+You've guessed it!
+Actual RGB:   Red - 237, Green - 142, and Blue -  73.
+
+Game 2 ~---~---~---~---~---~---~---~---~---~---~---~ 
+Guess # 1  :  Red - 240, Green - 180, and Blue - 180.
+Guess # 2  :  Red - 120, Green -  60, and Blue -  60.
+Guess # 3  :  Red - 180, Green -  80, and Blue -  90.
+Guess # 4  :  Red - 180, Green - 110, and Blue - 110.
+Guess # 5  :  Red - 180, Green - 100, and Blue - 110.
+
+You've guessed it!
+Actual RGB:   Red - 176, Green - 102, and Blue - 111.
+
+Game 3 ~---~---~---~---~---~---~---~---~---~---~---~ 
+Guess # 1  :  Red -  50, Green - 120, and Blue - 120.
+Guess # 2  :  Red -  10, Green - 150, and Blue - 130.
+
+You've guessed it!
+Actual RGB:   Red -   6, Green - 153, and Blue - 135.
+
+Playthrough statistics: 
+Mean RGB:     Red - 139, Green - 132, and Blue - 106.
+Smallest RGB: Red -   6, Green - 102, and Blue -  73.
+Largest RGB:  Red - 237, Green - 153, and Blue - 135.
+On average, it took you an average of 3 guesses. Good Job!
+Goodbye! ~---~---~---~---~---~---~---~---~---~---~---~ 
+
+
+
+Be sure to copy your results from the results file if you want to them! The file will be wiped next play through.
